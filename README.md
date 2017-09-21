@@ -30,7 +30,7 @@ All of them are "*pip installable*". At the end of this article you'll be able t
 
 ### 1.1. Importing our libraries
 
-This will be the most difficult part of all the post... 😥
+This will be the most difficult part of all the workshop... 😥
 Just kidding, obviously it won't. It'll be just as easy as copying and pasting the following code in your notebook:
 
 ```python
@@ -373,7 +373,7 @@ display(data.head(10))
   </tbody>
 </table>
 
-Now that we have extracted and have the data in a easy-to-handle ordered way, we're ready to do a bit more of manipulation to visualize some plots and gather some statistical data. The first part of the post is done.
+Now that we have extracted and have the data in a easy-to-handle ordered way, we're ready to do a bit more of manipulation to visualize some plots and gather some statistical data. The first part of the workshop is done.
 
 # 2. Visualization and basic statistics
 
@@ -459,7 +459,7 @@ This will create the following output:
 
 ### 2.3. Pie charts of sources
 
-We're almost done with this second section of the post. Now we will plot the sources in a pie chart, since we realized that not every tweet is tweeted from the same source (😱🤔). We first clean all the sources:
+We're almost done with this second section of the workshop. Now we will plot the sources in a pie chart, since we realized that not every tweet is tweeted from the same source (😱🤔). We first clean all the sources:
 
 ```python
 # We obtain all possible sources:
@@ -508,7 +508,7 @@ We can now proceed to do sentiment analysis.
 
 ### 3.1. Importing textblob
 
-As we mentioned at the beginning of this post, textblob will allow us to do sentiment analysis in a very simple way. We will also use the `re` library from Python, which is used to work with *regular expressions*. For this, I'll provide you two utility functions to: a) clean text (which means that any symbol distinct to an alphanumeric value will be remapped into a new one that satisfies this condition), and b) create a classifier to analyze the polarity of each tweet after cleaning the text in it. I won't explain the specific way in which the function that cleans works, since it would be extended and it might be better understood in the [official `re`documentation](https://docs.python.org/3/library/re.html).
+As we mentioned at the beginning of this workshop, textblob will allow us to do sentiment analysis in a very simple way. We will also use the `re` library from Python, which is used to work with *regular expressions*. For this, I'll provide you two utility functions to: a) clean text (which means that any symbol distinct to an alphanumeric value will be remapped into a new one that satisfies this condition), and b) create a classifier to analyze the polarity of each tweet after cleaning the text in it. I won't explain the specific way in which the function that cleans works, since it would be extended and it might be better understood in the [official `re`documentation](https://docs.python.org/3/library/re.html).
 
 The code that I'm providing is:
 ```python
