@@ -29,5 +29,5 @@ I'll now leave some references for documentation and tutorials on the used libra
 </div>
 
 
-> Go back to [3. Sentiment analysis](https://github.com/RodolfoFerro/pandas_twitter/blob/master/03-sentiment-analysis.md)
-> Return to the [README](https://github.com/RodolfoFerro/pandas_twitter/blob/master/README.md)
+> Go back to [3. Sentiment analysis](https://github.com/RodolfoFerro/pandas_twitter/blob/master/03-sentiment-analysis.md)<br>
+> Return to the [README](https://github.com/RodolfoFerro/pandas_twitter/blob/master/README.md)<br>

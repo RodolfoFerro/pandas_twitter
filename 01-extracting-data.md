@@ -347,5 +347,5 @@ display(data.head(10))
 
 Now that we have extracted and have the data in a easy-to-handle ordered way, we're ready to do a bit more of manipulation to visualize some plots and gather some statistical data. The first part of the workshop is done.
 
-> Go back to [0. Prerequisite: What will we need?](https://github.com/RodolfoFerro/pandas_twitter/blob/master/00-prerequisite.md)
-> Go next to [2. Visualization and basic statistics](https://github.com/RodolfoFerro/pandas_twitter/blob/master/02-visualization.md)
+> Go back to [0. Prerequisite: What will we need?](https://github.com/RodolfoFerro/pandas_twitter/blob/master/00-prerequisite.md)<br>
+> Go next to [2. Visualization and basic statistics](https://github.com/RodolfoFerro/pandas_twitter/blob/master/02-visualization.md)<br>

@@ -127,5 +127,5 @@ And we can see the percentage of tweets per source.
 
 We can now proceed to do sentiment analysis.
 
-> Go back to [1. Extracting twitter data (tweepy + pandas)](https://github.com/RodolfoFerro/pandas_twitter/blob/master/01-extracting-data.md)
-> Go next to [3. Sentiment analysis](https://github.com/RodolfoFerro/pandas_twitter/blob/master/03-sentiment-analysis.md)
+> Go back to [1. Extracting twitter data (tweepy + pandas)](https://github.com/RodolfoFerro/pandas_twitter/blob/master/01-extracting-data.md)<br>
+> Go next to [3. Sentiment analysis](https://github.com/RodolfoFerro/pandas_twitter/blob/master/03-sentiment-analysis.md)<br>

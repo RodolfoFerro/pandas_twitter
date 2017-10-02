@@ -204,5 +204,5 @@ We have to consider that we're working only with the 200 most recent tweets from
 As we saw, we can extract, manipulate, visualize and analyze data in a very simple way with Python. I hope that this leaves some uncertainty in the reader, for further exploration using this tools.
 
 
-> Go back to [2. Visualization and basic statistics](https://github.com/RodolfoFerro/pandas_twitter/blob/master/02-visualization.md)
-> Go next to [4. References](https://github.com/RodolfoFerro/pandas_twitter/blob/master/04-references.md)
+> Go back to [2. Visualization and basic statistics](https://github.com/RodolfoFerro/pandas_twitter/blob/master/02-visualization.md)<br>
+> Go next to [4. References](https://github.com/RodolfoFerro/pandas_twitter/blob/master/04-references.md)<br>

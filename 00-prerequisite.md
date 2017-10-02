@@ -15,5 +15,5 @@ All of them are "*pip installable*". At the end of this article you'll be able t
 
 **Now that we have all the requirements, let's get started!**
 
-> Go back to the [README](https://github.com/RodolfoFerro/pandas_twitter/blob/master/README.md)
-> Go next to [1. Extracting twitter data (tweepy + pandas)](https://github.com/RodolfoFerro/pandas_twitter/blob/master/01-extracting-data.md)
+> Go back to the [README](https://github.com/RodolfoFerro/pandas_twitter/blob/master/README.md)<br>
+> Go next to [1. Extracting twitter data (tweepy + pandas)](https://github.com/RodolfoFerro/pandas_twitter/blob/master/01-extracting-data.md)<br>
